@@ -18,3 +18,11 @@ User Profile –
 Event – {} {} {} {} 
 Matching Algorith – 
 Database Schema – 
+
+
+Installed Addons for This - from VS code extension library
+React Native Tools - msjsdiag.vscode-react-native - 
+    - Look for methods in a file? Ctrl + Shift + o then :
+React es7 - dsznajder.es7-react-js-snippets
+
+Code Outliner - oleg-shilo.codemap
